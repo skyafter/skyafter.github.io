@@ -1,0 +1,37 @@
+---
+title: "我的书法笔记"
+author: "雁"
+date: "2022/9/30"
+output: 
+  ioslides_presentation: 
+    fig_caption: yes
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 暄桐的书法教室
+
+暄桐是中央美术学院林曦女士创办的一个以培养生活美学为宗旨的书法教室，线上也有直播教学。教程内容包括了写字之旅，第一阶段到第四阶段，教授从篆隶到行草的字体。由于她本人对琴棋书画和中国传统文化融会贯通的了解，她在这套课程里非常耐心又专业地从基础教起，能让人情不自禁地要去赶紧学习和练习。
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+## 每日三问
+-你静坐了吗？你读书了吗？你写字了吗？
+
+## 不要打岔，思维集中于笔尖
+- 有愿心，无目标
+- 每天练习，形成习惯
+- 练习用笔尖在手心按下，又提起，笔尖应该还原为锥形
+- 练习横线：不较劲，稳定地画中锋的横。注意，首尾只需要向左点，稍微提，不要随意地左右画。
+笔尖写的比较圆润，笔肚写的粗糙。每天写20根，写一个月的目标是，放松地写出圆润的横。
+先学会流畅写一整条，不要分开一节一节地写
+
+### 《禅心与箭术》
+
+You can also embed plots, for example:
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
